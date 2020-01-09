@@ -6,10 +6,10 @@ Modifications and additions to the existing On Hit and On Cast Effects are made 
 # Examples
 
 ### Projectile Skillshot
-<a href="https://github.com/Greebling/Modular-Spell/blob/master/Spells/example%20images/ex00.PNG"><img src="https://github.com/Greebling/Modular-Spell/blob/master/Spells/example%20images/ex00.PNG" width="550" ></a>
+<a href="https://github.com/Greebling/Modular-Spell-System/blob/master/Example%20Images/ex00.PNG"><img src="https://github.com/Greebling/Modular-Spell-System/blob/master/Example%20Images/ex00.PNG" width="550" ></a>
 
 ### Dash Spell
-<a href="https://github.com/Greebling/Modular-Spell/blob/master/Spells/example%20images/ex01.PNG"><img src="https://github.com/Greebling/Modular-Spell/blob/master/Spells/example%20images/ex01.PNG" width="550" ></a>
+<a href="https://github.com/Greebling/Modular-Spell-System/blob/master/Example%20Images/ex01.PNG"><img src="https://github.com/Greebling/Modular-Spell-System/blob/master/Example%20Images/ex01.PNG" width="550" ></a>
 
 
 # Artifacts
